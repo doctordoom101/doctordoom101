@@ -25,8 +25,6 @@ I am passionate about learning **Data Science** and **Backend Development**. I e
 
 ### 📊 GitHub Stats
 
-![Defanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=doctordoom101&show_icons=true&theme=dark&hide_border=false&count_private=true&cache_seconds=3600)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doctordoom101&theme=dark&layout=compact)
 
 ---
