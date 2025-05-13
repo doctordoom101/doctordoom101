@@ -1,25 +1,37 @@
-## Hi, I'm Defanda!  
+## Hi, I'm Defanda! 👋  
 
-<img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBuY3l4ZWNnNnEwZWF2dDRhZWp0Zno4OXltdTJ1N2Y3cjZkZGo2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a1QLZUUtCcgyA/giphy.gif" width="200" alt="IT Student" />
+<img align="center" src="https://media1.tenor.com/m/_Tc8YXMUxj4AAAAd/hi-hello.gif" width="500" alt="Data Engineer" />
 
-I am passionate about learning **Data Science** and **Backend Development**. I enjoy working with various technologies, including **Python, Django, Flask, SQL**, and **Machine Learning**. My goal is to build scalable and efficient applications while continuously improving my problem-solving skills. Currently, I am an **IT Student at Esa Unggul University**, eager to explore more in the world of tech!
+I'm an IT student who’s currently diving into the world of **Data Engineering**.  
+Right now, I'm learning how to work with **data pipelines, databases, cloud tools**, and anything that helps move, clean, or store data efficiently.
+
+I enjoy using **Python, SQL, Airflow**, and playing around with tools like **Docker** and **AWS**. Still learning every day and always open to new stuff!
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://github.com/apache/airflow/blob/19ebcac2395ef9a6b6ded3a2faa29dc960c1e635/docs/apache-airflow/img/logos/wordmark_1.png?raw=true" height="40" alt="Apache Airflow" />
 </div>
+
+---
+
+### 📚 What I'm Focusing On
+
+- Learning how to build ETL pipelines  
+- Playing with cloud platforms like AWS  
+- Cleaning and transforming data using Pandas and SQL  
+- Scheduling workflows with Apache Airflow  
+- Exploring tools like Docker for deployment  
 
 ---
 
@@ -29,7 +41,7 @@ I am passionate about learning **Data Science** and **Backend Development**. I e
 
 ---
 
-### 🌍 Connect with Me
+### 🌐 Connect with Me
 
 <div align="left">
   <a href="https://instagram.com/fandadefjcr" target="_blank">
