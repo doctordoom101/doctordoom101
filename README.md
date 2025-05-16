@@ -5,7 +5,7 @@
 I'm an IT student who’s currently diving into the world of **Data Engineering**.  
 Right now, I'm learning how to work with **data pipelines, databases, cloud tools**, and anything that helps move, clean, or store data efficiently.
 
-I enjoy using **Python, SQL, Airflow**, and playing around with tools like **Docker** and **AWS**. Still learning every day and always open to new stuff!
+I enjoy using **Python, SQL, DBT**, and playing around with tools like **Docker** and **Airflow**. Still learning every day and always open to new stuff!
 
 ---
 
