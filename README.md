@@ -27,8 +27,7 @@ I enjoy using **Python, SQL, DBT**, and playing around with tools like **Docker*
 
 ### 📚 What I'm Focusing On
 
-- Learning how to build ETL pipelines  
-- Playing with cloud platforms like AWS  
+- Learning how to build ETL pipelines
 - Cleaning and transforming data using Pandas and SQL  
 - Scheduling workflows with Apache Airflow  
 - Exploring tools like Docker for deployment  
