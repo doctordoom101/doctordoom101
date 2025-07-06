@@ -2,7 +2,7 @@
 
 <img align="center" src="https://media1.tenor.com/m/_Tc8YXMUxj4AAAAd/hi-hello.gif" width="500" alt="Data Engineer" />
 
-I'm an IT student who’s currently diving into the world of **Data Engineering**.  
+I'm an IT student who’s currently diving into the world of **Data**.  
 Right now, I'm learning how to work with **data pipelines, databases, cloud tools**, and anything that helps move, clean, or store data efficiently.
 
 I enjoy using **Python, SQL, DBT**, and playing around with tools like **Docker** and **Airflow**. Still learning every day and always open to new stuff!
