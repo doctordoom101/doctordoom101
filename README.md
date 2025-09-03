@@ -24,10 +24,21 @@ I'm an IT student passionate about the world of data.
 
 ### 📊 GitHub Stats  
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doctordoom101&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctordoom101&theme=dark&layout=compact" height="150" />
-</p>  
+
+<div align="center">
+  <img
+    src="https://git-hub-streak-stats.vercel.app/?user=doctordoom101&theme=tokyonight&hide_border=true"
+    height="150"
+    alt="GitHub streak stats"
+    style="display:inline-block; margin-right:10px;" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctordoom101&theme=tokyonight&layout=compact&hide_border=true" 
+    height="150" 
+    alt="Top languages stats"
+    style="display:inline-block;" 
+  />
+</div>
 
 ---
 
