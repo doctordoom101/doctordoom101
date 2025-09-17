@@ -2,9 +2,9 @@
 
 <img align="center" src="https://media1.tenor.com/m/_Tc8YXMUxj4AAAAd/hi-hello.gif" width="400" alt="Data Enthusiast" />
 
-I'm an IT student passionate about the world of data.    
-
----
+I'm an IT student passionate about the world of data.  
+- Recently working on machine learning projects and data engineering to build data pipelines
+- Based in Jakarta, Indonesia
 
 ### 🛠️ Tech Stack & Tools  
 
@@ -20,10 +20,7 @@ I'm an IT student passionate about the world of data.
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
 </p>
 
----
-
 ### 📊 GitHub Stats  
-
 
 <div align="center">
   <img
@@ -39,8 +36,6 @@ I'm an IT student passionate about the world of data.
     style="display:inline-block;" 
   />
 </div>
-
----
 
 ### 🌐 Connect with Me  
 
@@ -67,5 +62,3 @@ I'm an IT student passionate about the world of data.
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
-
----
