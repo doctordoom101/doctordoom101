@@ -1,6 +1,9 @@
-## Hi, I'm Defanda! 👋  
+```python
+print("Hi, I am Defanda 👋")
+print("Welcome to my GitHub profile!")
+```
 
-<img align="center" src="https://media1.tenor.com/m/_Tc8YXMUxj4AAAAd/hi-hello.gif" width="400" alt="Data Enthusiast" />
+<img align="center" src="https://media1.tenor.com/m/_Tc8YXMUxj4AAAAd/hi-hello.gif" width="200" alt="Data Enthusiast" />
 
 I'm an IT student passionate about the world of data.  
 - Recently working on machine learning projects and data engineering to build data pipelines
