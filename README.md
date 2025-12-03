@@ -6,8 +6,9 @@ print("Welcome to my GitHub profile!")
 <img align="center" src="https://media1.tenor.com/m/_Tc8YXMUxj4AAAAd/hi-hello.gif" width="200" alt="Data Enthusiast" />
 
 I'm an IT student passionate about the world of data.  
-- Recently working on machine learning projects and data engineering to build data pipelines
-- Based in Jakarta, Indonesia
+- Currently focus on **data engineering** and **machine learning**  
+- Currently building **data pipelines**, experimenting with **ML models**, and exploring scalable systems  
+- Passionate about turning messy data into insight and automation
 
 ### 🛠️ Tech Stack & Tools  
 
@@ -32,12 +33,9 @@ I'm an IT student passionate about the world of data.
     alt="GitHub streak stats"
     style="display:inline-block; margin-right:10px;" 
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctordoom101&theme=tokyonight&layout=compact&hide_border=true" 
-    height="150" 
-    alt="Top languages stats"
-    style="display:inline-block;" 
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doctordoom101&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doctordoom101&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doctordoom101&theme=tokyonight" />
 </div>
 
 ### 🌐 Connect with Me  
