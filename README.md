@@ -10,7 +10,7 @@ I'm an IT student passionate about the world of data.
 - Currently building **data pipelines**, experimenting with **ML models**, and exploring scalable systems  
 - Passionate about turning messy data into insight and automation
 
-### 🛠️ Tech Stack & Tools  
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" />
@@ -31,21 +31,28 @@ I'm an IT student passionate about the world of data.
   <img src="https://img.shields.io/badge/Seaborn-4E9BCD?style=flat&logo=seaborn&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 
 <div align="center">
-  <img
+  <!-- <img
     src="https://git-hub-streak-stats.vercel.app/?user=doctordoom101&theme=tokyonight&hide_border=true"
     height="150"
     alt="GitHub streak stats"
     style="display:inline-block; margin-right:10px;" 
+  /> -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doctordoom101&theme=tokyonight" 
+    height="170"
+    style="display:inline-block; margin-right:10px;" 
   />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doctordoom101&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doctordoom101&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doctordoom101&theme=tokyonight" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doctordoom101&theme=tokyonight" 
+    height="170"
+    style="display:inline-block; margin-right:10px;"
+  />
 </div>
 
-### 🌐 Connect with Me  
+### Connect with Me  
 
 <p align="left">
   <a href="https://instagram.com/fandadefjcr" target="_blank">
