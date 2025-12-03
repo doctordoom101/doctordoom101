@@ -33,21 +33,21 @@ I'm an IT student passionate about the world of data.
 
 ### GitHub Stats  
 
-<div align="center">
-  <!-- <img
+<div align="left">
+  <img
     src="https://git-hub-streak-stats.vercel.app/?user=doctordoom101&theme=tokyonight&hide_border=true"
     height="150"
     alt="GitHub streak stats"
     style="display:inline-block; margin-right:10px;" 
-  /> -->
-  <img 
+  />
+  <!-- <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doctordoom101&theme=tokyonight" 
     height="170"
     style="display:inline-block; margin-right:10px;" 
-  />
+  /> -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doctordoom101&theme=tokyonight" 
-    height="170"
+    height="150"
     style="display:inline-block; margin-right:10px;"
   />
 </div>
