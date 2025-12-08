@@ -25,10 +25,6 @@ I'm an IT student passionate about the world of data.
 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Seaborn-4E9BCD?style=flat&logo=seaborn&logoColor=white" />
 </p>
 
 ### GitHub Stats  
