@@ -5,10 +5,9 @@ print("Welcome to my GitHub profile!")
 
 <img align="center" src="https://media1.tenor.com/m/_Tc8YXMUxj4AAAAd/hi-hello.gif" width="200" alt="Data Enthusiast" />
 
-I'm an IT student passionate about the world of data.  
-- Currently focus on **data engineering** and **machine learning**  
-- Currently building **data pipelines**, experimenting with **ML models**, and exploring scalable systems  
-- Passionate about turning messy data into insight and automation
+I'm an IT student with a strong focus on MLOps and data-driven systems.
+- Currently focused on MLOps, data engineering, and machine learning lifecycle management
+- Building end-to-end ML pipelines: data ingestion, training, experiment tracking, deployment, and monitoring
 
 ### Tech Stack
 
