@@ -39,16 +39,16 @@ I'm an IT student with a strong focus on MLOps and data-driven systems.
     alt="GitHub streak stats"
     style="display:inline-block; margin-right:10px;" 
   /> -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doctordoom101&theme=tokyonight" 
-    height="170"
-    style="display:inline-block; margin-right:10px;" 
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doctordoom101&theme=tokyonight" 
-    height="170"
-    style="display:inline-block; margin-right:10px;"
-  />
+  <div style="display:flex; gap:10px;">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doctordoom101&theme=nord_dark" 
+      height="170"
+    />
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doctordoom101&theme=nord_dark" 
+      height="170"
+    />
+  </div>
 </div>
 
 ### Connect with Me  
