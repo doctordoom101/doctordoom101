@@ -41,11 +41,11 @@ I'm an IT student with a strong focus on MLOps and data-driven systems.
   /> -->
   <div style="display:flex; gap:10px;">
     <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doctordoom101&theme=nord_dark" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doctordoom101&theme=github_dark" 
       height="170"
     />
     <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doctordoom101&theme=nord_dark" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doctordoom101&theme=github_dark" 
       height="170"
     />
   </div>
