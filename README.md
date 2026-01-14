@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Data+Enthusiast!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 ```python
 print("Hi, I am Defanda 👋")
 print("Welcome to my GitHub profile!")
